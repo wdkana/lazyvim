@@ -1,0 +1,10 @@
+-- ### THEME TOGGLER FUNCTION ###
+--     "<leader>00",
+--     function()
+--         if vim.g.colors_name == "nightfox" then
+--             vim.cmd("colorscheme carbonfox")
+--         else
+--             vim.cmd("colorscheme nightfox")
+--         end
+--     end,
+--     desc = "Ganti warna tema..."
