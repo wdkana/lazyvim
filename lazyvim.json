@@ -1,17 +1,5 @@
 {
-  "extras": [
-    "lazyvim.plugins.extras.editor.aerial",
-    "lazyvim.plugins.extras.editor.mini-files",
-    "lazyvim.plugins.extras.editor.symbols-outline",
-    "lazyvim.plugins.extras.formatting.black",
-    "lazyvim.plugins.extras.formatting.prettier",
-    "lazyvim.plugins.extras.lang.json",
-    "lazyvim.plugins.extras.lang.python",
-    "lazyvim.plugins.extras.lang.tailwind",
-    "lazyvim.plugins.extras.lang.typescript",
-    "lazyvim.plugins.extras.ui.edgy",
-    "lazyvim.plugins.extras.util.dot"
-  ],
+  "extras": [],
   "news": {
     "NEWS.md": "2123"
   },
